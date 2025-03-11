@@ -32,3 +32,5 @@ evaluate folder contains evaluation code of ChatGLM and Llama2-7b-chat
 # Train
 
 to train your own model with conversation data, we use the finetune framework in https://github.com/XplainMind/LLMindCraft
+
+To be specific, we use the sft training method.
